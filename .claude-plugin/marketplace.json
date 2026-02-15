@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cont",
+  "description": "Tools for LLM",
+  "owner": {
+    "name": "tyjeon24"
+  },
+  "plugins": [
+    {
+      "name": "cont",
+      "description": "Tools for LLM",
+      "version": "0.1.0",
+      "author": {
+        "name": "tyjeon24"
+      },
+      "source": "./",
+      "category": "productivity"
+    }
+  ],
+  "version": "0.1.0"
+}
