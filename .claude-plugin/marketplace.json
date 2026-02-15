@@ -9,7 +9,7 @@
     {
       "name": "cont",
       "description": "Tools for LLM",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "author": {
         "name": "tyjeon24"
       },
@@ -17,5 +17,5 @@
       "category": "productivity"
     }
   ],
-  "version": "0.1.0"
+  "version": "0.2.0"
 }
